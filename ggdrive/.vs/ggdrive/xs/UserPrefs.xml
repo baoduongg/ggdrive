@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{838FC4F9-6B80-4EDC-836B-66BD72BF4008}|Default">
+  <MonoDevelop.Ide.ItemProperties.ggdrive.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ggdrive/MainPageViewModel.cs">
+    <Files>
+      <File FileName="ggdrive/MainPage.xaml.cs" Line="29" Column="2" />
+      <File FileName="ggdrive/MainPageViewModel.cs" Line="74" Column="18" />
+      <File FileName="ggdrive/DriveServiceHelper.cs" />
+      <File FileName="ggdrive/MainPage.xaml" />
+      <File FileName="ggdrive.iOS/Main.cs" />
+      <File FileName="ggdrive/GoogleServices.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ggdrive" expanded="True">
+            <Node name="ggdrive" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPageViewModel.cs" selected="True" />
+            </Node>
+            <Node name="ggdrive.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="ggdrive.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ggdrive.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1C69B7C3-4249-428D-BBB3-3EC0E8EDA4D0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/baoduong/Projects/ggdrive/ggdrive/GoogleServices.cs" relfile="ggdrive/GoogleServices.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
